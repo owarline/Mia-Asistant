@@ -24,5 +24,5 @@ Cargo dentro de la empresa: Director de imagen empresarial, "Padre" de Mia.
 
 Seccion de Programacion:
 Director (a) de la seccion: Gabriel "owarline" Parra.
-Conocimientos: Cuatro años de estudio autodidacta de lenguaje Batch, Dos años años de estudio autodidacta de lenguaje Python, Certificado de la Pontifice Universidad  Catolica de Chile; Python Basics.
+Conocimientos: Cuatro años de estudio autodidacta de lenguaje Batch, Dos años de estudio autodidacta de lenguaje Python, Certificado de la Pontifice Universidad  Catolica de Chile; Python Basics.
 Cargo dentro de la empresa: Programador en jefe, encargado del repositorio.
