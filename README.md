@@ -1,2 +1,28 @@
-# Mia-Asistant
-un asistente virtual, proyecto escolar, primero medio, Chile
+Mia-Asistant
+un asistente virtual, proyecto escolar, primero medio, Chile.
+
+Nuestra empresa:
+Nombre: *inserte nombre*
+Servicios: Nuestra empresa presta servicios de programacion general, de marketing y de diseño de interfaces.
+Direccion de la empresa: Alacena debajo de la Escalera, Privet Drive 4, Little Whinging, Surrey, Inglaterra
+Trabajadores: Consuelo "username" Leiva, Hugo "username" Solís, Gabriel "owarline" Parra.
+
+Seccion de Marketing:
+Director (a) de la seccion: Consuelo "username" Leiva.
+Conocimientos: *inserte conocimientos*.
+Cargo dentro de la empresa: Directora de marketing, Directora creativa, Cara principal de la empresa, encargada del diseño de presentaciones.
+
+Seccion Creativa:
+Director (a) de la seccion: Consuelo "username" Leiva.
+Conocimientos: *inserte conocimientos*.
+Cargo dentro de la empresa: Directora de marketing, Directora creativa, Cara principal de la empresa, encargada del diseño de presentaciones.
+
+Seccion de la Visual:
+Director (a) de la seccion: Hugo "username" Solís.
+Conocimientos: *inserte conocimientos*.
+Cargo dentro de la empresa: Director de imagen empresarial, "Padre" de Mia.
+
+Seccion de Programacion:
+Director (a) de la seccion: Gabriel "owarline" Parra.
+Conocimientos: Cuatro años de estudio autodidacta de lenguaje Batch, Dos años años de estudio autodidacta de lenguaje Python, Certificado de la Pontifice Universidad  Catolica de Chile; Python Basics.
+Cargo dentro de la empresa: Programador en jefe, encargado del repositorio.
