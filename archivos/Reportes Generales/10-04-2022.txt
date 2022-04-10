@@ -1,3 +1,4 @@
 10-04-2022
 Gabriel "owarline" Parra:
-Se crea oficialmente el repositorio del proyecto, los datos de la empresa (solicito la completacion de los datos de la empresa por Consuelo "username" Leiva y los datos propios de cada ente en el proyecto) y empieza el trabajo pr mi parte en la seccion programacion.
+Se crea oficialmente el repositorio del proyecto, los datos de la empresa (solicito la completacion de los datos de la empresa por Consuelo "username" Leiva y los datos propios de cada ente en el proyecto) y empieza el trabajo por mi parte en la seccion programacion.
+Se crea la primera version de Mia-Assistant, solo una version "pre-beta-for-test", con 2 funciones, disponer informacion del proyecto y probar su propia voz.
