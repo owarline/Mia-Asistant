@@ -2,7 +2,7 @@ Mia-Asistant
 un asistente virtual, proyecto escolar, primero medio, Chile.
 
 Nuestra empresa:
-Nombre: *inserte nombre*
+Nombre: Dauth Co.
 Servicios: Nuestra empresa presta servicios de programacion general, de marketing y de diseño de interfaces.
 Direccion de la empresa: Alacena debajo de la Escalera, Privet Drive 4, Little Whinging, Surrey, Inglaterra
 Trabajadores: Consuelo "consueloleivau" Leiva, Hugo "hugosincum" Solís, Gabriel "owarline" Parra.
