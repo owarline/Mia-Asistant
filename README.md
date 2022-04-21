@@ -19,7 +19,7 @@ Cargo dentro de la empresa: Directora de marketing, Directora creativa, Cara pri
 
 Seccion de la Visual:
 Director (a) de la seccion: Hugo "hugosincum" Solís.
-Conocimientos: *inserte conocimientos*.
+Conocimientos: eh estudiado durante 3 años imagenes de caricaturas, conocimiento de modelacion tridimencional.
 Cargo dentro de la empresa: Director de imagen empresarial, "Padre" de Mia.
 
 Seccion de Programacion:
